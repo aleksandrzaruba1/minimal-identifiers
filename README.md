@@ -29,7 +29,7 @@
 ```
 git clone https://github.com/aleksandrzaruba1/minimal-identifiers.git
 ```
-2. Установите библеотеку pandas
+2. Установите библиотеку pandas
 ```
 pip install pandas
 ```
