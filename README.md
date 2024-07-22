@@ -37,4 +37,6 @@ pip install pandas
 
 ## Структура программы
 
-![](https://github.com/user-attachments/assets/d9416d9d-5bca-448d-b509-742a3bdc313c)
+![image](https://github.com/user-attachments/assets/0c655dd5-cd0b-44a4-9154-a94c137231f8)
+
+
