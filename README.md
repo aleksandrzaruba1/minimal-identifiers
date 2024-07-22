@@ -36,7 +36,7 @@ pip install pandas
 3. В папке app.py укажите путь к вашему json файлу
 
 ## Структура программы
+![](https://github.com/user-attachments/assets/bf9fbf09-7a9e-4528-8e71-2eb9894a2089)
 
-![image](https://github.com/user-attachments/assets/0c655dd5-cd0b-44a4-9154-a94c137231f8)
 
 
