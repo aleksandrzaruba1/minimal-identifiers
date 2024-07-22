@@ -33,7 +33,7 @@ git clone https://github.com/aleksandrzaruba1/minimal-identifiers.git
 ```
 pip install pandas
 ```
-3. В папке app.py укажите путь к вашему json файлу
+3. В файле app.py укажите путь к вашему json файлу (строка 57)
 
 ## Структура программы (ГОСТ) 19.701-90.
 ![](https://github.com/user-attachments/assets/bf9fbf09-7a9e-4528-8e71-2eb9894a2089)
